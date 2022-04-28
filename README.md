@@ -1,6 +1,6 @@
 👋 Hi, I’m **Marine Dechamp-Guillaume**  
 
-I am an Agriculture Ingineer :sunflower: specialised in innovation and project management.
+I am an Agriculture Engineer :sunflower: specialised in innovation and project management.
 
 I am currently the **Project Manager** and **Project Owner** of [OKP4](https://okp4.com/) (:octocat: [repo](https://github.com/okp4/))
 
