@@ -1,3 +1,5 @@
+![banner](/banner.png) 
+
 👋 Hi, I’m **Marine Dechamp-Guillaume**  
 
 I am an Agriculture Engineer :sunflower: specialised in innovation and project management.
