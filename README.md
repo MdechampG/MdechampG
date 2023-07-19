@@ -1,4 +1,4 @@
-![banner](/banner.png) 
+![banner](/Okp4-github-banner.webp) 
 
 👋 Hi, I’m **Marine Dechamp-Guillaume**  
 
